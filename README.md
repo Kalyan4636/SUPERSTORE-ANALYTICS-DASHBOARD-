@@ -9,7 +9,12 @@
 6️⃣ Customer Segmentation 👥: Explored sales across different customer segments.
 7️⃣ Order Quantity 📦: Total orders processed. 
 8️⃣ Return Rate 🔄: Monitored percentage of returns.
-9️⃣ Shipping Cost 🚚: Assessed total shipping expenditures. 
+9️⃣ Shipping Cost 🚚: Assessed total shipping expenditures.  
+
+# DASHBOARD 
+[ ![SUPERSTORE REPORT ](https://github.com/user-attachments/assets/c74d0e35-a7e9-4292-be0b-e3379edfed37)     
+
+]
 
 # This dashboard empowers data-driven decision-making and enhances business strategy! 💡✨
 
